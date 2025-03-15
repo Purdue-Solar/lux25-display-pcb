@@ -3,7 +3,6 @@
   (lib (name "U-Blox")(type "KiCad")(uri "${KIPRJMOD}/U-Blox.kicad_sym")(options "")(descr ""))
   (lib (name "ST")(type "KiCad")(uri "${KIPRJMOD}/ST.kicad_sym")(options "")(descr ""))
   (lib (name "ST-Link_V3")(type "KiCad")(uri "${KIPRJMOD}/ST-Link_V3.kicad_sym")(options "")(descr ""))
-  (lib (name "lux25-display-pcb-altium-import")(type "KiCad")(uri "${KIPRJMOD}/lux25-display-pcb-altium-import.kicad_sym")(options "")(descr ""))
   (lib (name "Memory_Custom")(type "KiCad")(uri "${KIPRJMOD}/Memory_Custom.kicad_sym")(options "")(descr ""))
   (lib (name "TexasInstruments")(type "KiCad")(uri "${KIPRJMOD}/TexasInstruments.kicad_sym")(options "")(descr ""))
 )

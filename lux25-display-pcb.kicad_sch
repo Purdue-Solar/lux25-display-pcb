@@ -2259,6 +2259,16 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 60.96) (xy 95.25 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce44232d-0d73-4906-bd07-5a390a1ab8a0")
+	)
+	(wire
+		(pts
 			(xy 128.27 149.86) (xy 138.43 149.86)
 		)
 		(stroke
@@ -2397,7 +2407,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "03c28367-da4b-4f89-9fe9-9c0f5bd31398")
-		(property "Reference" "C63"
+		(property "Reference" "C9"
 			(at 88.265 157.48 0)
 			(effects
 				(font
@@ -2451,7 +2461,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "C63")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -2466,7 +2476,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0924871e-04aa-4b87-a922-2c3dfecbe479")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR08"
 			(at 107.315 168.91 0)
 			(effects
 				(font
@@ -2516,7 +2526,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "#PWR065")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -2532,7 +2542,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a86f2c1-f227-4b2d-aaa0-b77db841aa7b")
-		(property "Reference" "R9"
+		(property "Reference" "R2"
 			(at 152.4 146.05 0)
 			(effects
 				(font
@@ -2586,7 +2596,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "R9")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -2602,7 +2612,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ca3d67b-d5d4-4bf8-97d7-3a711578cb0d")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR01"
 			(at 104.775 129.54 0)
 			(effects
 				(font
@@ -2652,7 +2662,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "#PWR060")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -2668,7 +2678,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2112e405-dd88-41b4-870c-479df1883981")
-		(property "Reference" "C58"
+		(property "Reference" "C4"
 			(at 125.095 143.51 0)
 			(effects
 				(font
@@ -2722,7 +2732,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "C58")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -2737,7 +2747,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "27f9de6c-24d4-4f9f-9514-c808edf4e628")
-		(property "Reference" "L4"
+		(property "Reference" "L2"
 			(at 133.35 137.16 90)
 			(effects
 				(font
@@ -2797,7 +2807,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "L4")
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -2812,7 +2822,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "309ecaaf-7e43-4a6d-9a50-8ba7eea647d8")
-		(property "Reference" "C56"
+		(property "Reference" "C2"
 			(at 121.92 133.985 90)
 			(effects
 				(font
@@ -2864,7 +2874,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "C56")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -2880,7 +2890,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "322cdf1a-fe28-4e14-8d4a-49d23c19b632")
-		(property "Reference" "C61"
+		(property "Reference" "C7"
 			(at 137.795 143.51 0)
 			(effects
 				(font
@@ -2934,7 +2944,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "C61")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -2949,7 +2959,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4347addd-8cf6-4432-b1ee-4a7d746d6ffa")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR06"
 			(at 138.43 156.21 0)
 			(effects
 				(font
@@ -2999,7 +3009,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "#PWR064")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -3014,7 +3024,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4522ca7b-184d-40bb-a8ae-1d9fe564c443")
-		(property "Reference" "R10"
+		(property "Reference" "R3"
 			(at 59.055 156.21 0)
 			(effects
 				(font
@@ -3068,7 +3078,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "R10")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -3083,7 +3093,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6a03b254-e008-48d5-8f81-2f8bd0c6f0f7")
-		(property "Reference" "C57"
+		(property "Reference" "C3"
 			(at 84.455 143.51 0)
 			(effects
 				(font
@@ -3137,7 +3147,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "C57")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -3152,7 +3162,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6a82e721-8a45-4251-8f93-5f414a258f1f")
-		(property "Reference" "C60"
+		(property "Reference" "C6"
 			(at 71.755 143.51 0)
 			(effects
 				(font
@@ -3206,7 +3216,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "C60")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -3221,7 +3231,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7d251eb5-5839-4487-8db9-9b237f64769c")
-		(property "Reference" "R8"
+		(property "Reference" "R1"
 			(at 59.055 146.05 0)
 			(effects
 				(font
@@ -3275,7 +3285,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "R8")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -3291,7 +3301,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7d2be91e-9c80-4e18-b677-5de5b0bd8d3e")
-		(property "Reference" "R11"
+		(property "Reference" "R4"
 			(at 152.4 156.21 0)
 			(effects
 				(font
@@ -3345,7 +3355,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "R11")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -3360,7 +3370,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "98f28021-00f6-44d1-90ad-1fea9c054d42")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR05"
 			(at 71.12 156.21 0)
 			(effects
 				(font
@@ -3410,7 +3420,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "#PWR063")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -3426,7 +3436,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a3f219e-24e4-4c33-ade8-97c907466bb9")
-		(property "Reference" "NT2"
+		(property "Reference" "NT1"
 			(at 104.775 157.48 0)
 			(effects
 				(font
@@ -3480,7 +3490,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "NT2")
+					(reference "NT1")
 					(unit 1)
 				)
 			)
@@ -3496,7 +3506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6548d63-cc07-4b75-89a2-9d37011c6431")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR04"
 			(at 43.18 152.4 0)
 			(effects
 				(font
@@ -3546,7 +3556,7 @@
 		(instances
 			(project ""
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "#PWR031")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -3562,7 +3572,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bb0a434e-de6c-471b-9656-3a989e90aaed")
-		(property "Reference" "L3"
+		(property "Reference" "L1"
 			(at 76.2 137.16 90)
 			(effects
 				(font
@@ -3622,7 +3632,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "L3")
+					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -3637,7 +3647,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bc944e59-6105-495d-aff3-437812bb2491")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR03"
 			(at 149.86 146.05 0)
 			(effects
 				(font
@@ -3687,7 +3697,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "#PWR062")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -3702,7 +3712,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e07a5692-5fc5-4f83-89d4-ee7852da7976")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR02"
 			(at 61.595 146.05 0)
 			(effects
 				(font
@@ -3752,7 +3762,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "#PWR061")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -3767,7 +3777,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e2e7b740-5ac4-48b5-9144-fc14402f457a")
-		(property "Reference" "J3"
+		(property "Reference" "J1"
 			(at 34.29 157.48 0)
 			(effects
 				(font
@@ -3775,7 +3785,7 @@
 				)
 			)
 		)
-		(property "Value" "43045-0200"
+		(property "Value" "43045-0201"
 			(at 34.29 154.94 0)
 			(effects
 				(font
@@ -3819,7 +3829,7 @@
 		(instances
 			(project ""
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "J3")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -3835,7 +3845,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e7412563-6767-43d8-a601-165119145e5c")
-		(property "Reference" "C59"
+		(property "Reference" "C5"
 			(at 70.485 143.51 0)
 			(effects
 				(font
@@ -3889,7 +3899,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "C59")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -3904,7 +3914,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f1100695-a048-43f2-b17a-e2ee06d4e34a")
-		(property "Reference" "C55"
+		(property "Reference" "C1"
 			(at 87.63 133.985 90)
 			(effects
 				(font
@@ -3956,7 +3966,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "C55")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -3971,7 +3981,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f5c448d7-112a-4c48-9503-01d7649b67c8")
-		(property "Reference" "C62"
+		(property "Reference" "C8"
 			(at 139.065 143.51 0)
 			(effects
 				(font
@@ -4025,7 +4035,7 @@
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "C62")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -4041,7 +4051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa43424d-f475-4f4c-9229-118ea9440e9e")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR07"
 			(at 43.18 157.48 0)
 			(effects
 				(font
@@ -4091,7 +4101,7 @@
 		(instances
 			(project ""
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
-					(reference "#PWR032")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -4435,6 +4445,16 @@
 				(justify left)
 			)
 		)
+		(pin "GPS_EN" input
+			(at 95.25 60.96 180)
+			(uuid "8c923a1e-a5e1-4118-b54c-f1dff15d41a5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "lux25-display-pcb"
 				(path "/4a69e920-c063-4171-ad7b-68c97b0cb851"
@@ -4620,6 +4640,16 @@
 		(pin "DISPLAY_TE" input
 			(at 82.55 80.01 0)
 			(uuid "b721aa1c-d7db-4d47-90ce-0e0396dea542")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPS_EN" output
+			(at 82.55 60.96 0)
+			(uuid "b1da8c63-1443-48c3-a59e-bfe8e0e10875")
 			(effects
 				(font
 					(size 1.27 1.27)
